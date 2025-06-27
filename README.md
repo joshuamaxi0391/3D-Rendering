@@ -4,19 +4,6 @@ A MATLAB script that loads a triangle‐mesh in RAW format, applies world, view,
 
 ---
 
-## Table of Contents
-
-- [Features](#features)  
-- [Prerequisites](#prerequisites)  
-- [Usage](#usage)  
-- [Configuration](#configuration)  
-- [Example Scenes](#example-scenes)  
-- [Directory Structure](#directory-structure)  
-- [License](#license)  
-- [Author](#author)  
-
----
-
 ## Features
 
 - **World Transform**: rotation, scaling, translation  
